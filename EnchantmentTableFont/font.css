@@ -1,4 +1,5 @@
 @font-face {
     font-family: 'minecraft-enchantment-regular', sans-serif;
-    src: url("http://christiankek.github.io/discord-css-snippets/EnchantmentTableFont/minecraft-enchantment.ttf") format("truetype");
-}
+    src: url("https://raw.githubusercontent.com/christiankek/discord-css-snippets/main/EnchantmentTableFont/minecraft-enchantment.ttf") format("truetype");
+    font-display: swap;
+};
